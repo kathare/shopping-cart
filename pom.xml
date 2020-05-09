@@ -18,6 +18,13 @@
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Hoxton.SR3</spring-cloud.version>
 	</properties>
+	
+	<properties>
+ 		<sonar.projectKey>kathare_shopping-cart</sonar.projectKey>
+  		<sonar.organization>inventee</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  		<sonar.login>617dd723a9c4887de7504d2b47901672996a6413</sonar.login>
+	</properties>
 
 	<dependencies>
 		<dependency>
